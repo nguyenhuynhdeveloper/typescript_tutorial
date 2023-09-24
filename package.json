@@ -1,0 +1,20 @@
+{
+  "name": "typescript_tutorial",
+  "packageManager": "yarn@3.2.0",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "ts-lib": "^0.0.5"
+  },
+  "description": "Tôi đi code dạo : Tự học TypeScript cơ bản trong 15 phút - Code cùng Code Dạo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nguyenhuynhdeveloper",
+  "license": "MIT"
+}
